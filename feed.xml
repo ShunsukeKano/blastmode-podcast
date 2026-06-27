@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BLAST MODE</title>
-    <link>https://DJBlast-BLASTMODE.podbean.com</link>
+    <link>https://blastmode.info</link>
     <language>en-ca</language>
     <description>Welcome to BLAST MODE - powered by DJ BLAST. High-impact DJ mixes blending House, Latin, Afro, Hip-Hop, R&amp;B, and global party energy. From smooth grooves to peak-time pressure, every set is built with intention and real dancefloor momentum. Stay elevated. Join #BLASTMODE. Business Inquiries: bonnechancedigital@gmail.com</description>
     <itunes:author>DJ Blast</itunes:author>
     <itunes:summary>Welcome to BLAST MODE - powered by DJ BLAST. High-impact DJ mixes blending House, Latin, Afro, Hip-Hop, R&amp;B, and global party energy. From smooth grooves to peak-time pressure, every set is built with intention and real dancefloor momentum. Stay elevated. Join #BLASTMODE. Business Inquiries: bonnechancedigital@gmail.com</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>true</itunes:explicit>
-    <itunes:image href="https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/cover.jpg"/>
+    <itunes:image href="https://media.blastmode.info/BLAST_MODE_Cover.jpg"/>
     <itunes:category text="Music">
     </itunes:category>
     <itunes:owner>
       <itunes:name>DJ Blast</itunes:name>
       <itunes:email>bonnechancedigital@gmail.com</itunes:email>
     </itunes:owner>
-    <atom:link href="https://yourname.github.io/blastmode-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 26 Jun 2026 23:24:24 +0900</lastBuildDate>
+    <atom:link href="https://feed.blastmode.info/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 27 Jun 2026 14:20:10 +0900</lastBuildDate>
     <item>
       <title>HOUSE x DANCE PARTY MIX 2026 | John Summit, HUGEL, Dua Lipa, Rihanna, Frank Ocean &amp; more</title>
       <itunes:title>HOUSE x DANCE PARTY MIX 2026 | John Summit, HUGEL, Dua Lipa, Rihanna, Frank Ocean &amp; more</itunes:title>
       <pubDate>Sat, 20 Jun 2026 11:42:14 -0400</pubDate>
       <description>HOUSE x DANCE PARTY MIX 2026. Deep house grooves, dance anthems and pop remixes built for the dancefloor. Featuring John Summit, HUGEL, Dua Lipa, Rihanna, Frank Ocean and more.</description>
       <itunes:summary>HOUSE x DANCE PARTY MIX 2026. Deep house grooves, dance anthems and pop remixes built for the dancefloor. Featuring John Summit, HUGEL, Dua Lipa, Rihanna, Frank Ocean and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep022.mp3" length="131683348" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep022.mp3" length="131683348" type="audio/mpeg"/>
       <itunes:duration>54:52</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>22</itunes:episode>
@@ -36,7 +36,7 @@
       <pubDate>Sat, 13 Jun 2026 12:40:18 -0400</pubDate>
       <description>AFRO HOUSE x AFROBEATS MIX 2026. Deep Afro House grooves blended with Afrobeats heat and global club energy. Featuring Rema, CIZA, Tems, John Summit, HUGEL, Drake and more.</description>
       <itunes:summary>AFRO HOUSE x AFROBEATS MIX 2026. Deep Afro House grooves blended with Afrobeats heat and global club energy. Featuring Rema, CIZA, Tems, John Summit, HUGEL, Drake and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep021.mp3" length="126526776" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep021.mp3" length="126526776" type="audio/mpeg"/>
       <itunes:duration>52:43</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>21</itunes:episode>
@@ -48,7 +48,7 @@
       <pubDate>Tue, 05 May 2026 01:39:20 -0400</pubDate>
       <description>AFRO HOUSE x LATIN GROOVE MIX 2026. Deep Afro House grooves blended with Latin crossover energy. Featuring Jesus Fernandez, HUGEL, Karol G, Nicky Jam, Quevedo and more.</description>
       <itunes:summary>AFRO HOUSE x LATIN GROOVE MIX 2026. Deep Afro House grooves blended with Latin crossover energy. Featuring Jesus Fernandez, HUGEL, Karol G, Nicky Jam, Quevedo and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep020.mp3" length="123577029" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep020.mp3" length="123577029" type="audio/mpeg"/>
       <itunes:duration>51:29</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>20</itunes:episode>
@@ -60,7 +60,7 @@
       <pubDate>Mon, 04 May 2026 10:09:39 -0400</pubDate>
       <description>AFRO HOUSE x DANCE MIX 2026. Deep Afro House grooves, dance anthems and global club energy. Featuring HUGEL, Adam Port, Disclosure, Diplo, Shimza, Muni Long and more.</description>
       <itunes:summary>AFRO HOUSE x DANCE MIX 2026. Deep Afro House grooves, dance anthems and global club energy. Featuring HUGEL, Adam Port, Disclosure, Diplo, Shimza, Muni Long and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep019.mp3" length="161964490" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep019.mp3" length="161964490" type="audio/mpeg"/>
       <itunes:duration>01:07:29</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>19</itunes:episode>
@@ -72,7 +72,7 @@
       <pubDate>Mon, 06 Apr 2026 10:37:02 -0400</pubDate>
       <description>REGGAETON x LATIN CLUB MIX 2026. From Latin pop anthems to reggaeton club edits and peak-time bangers. Featuring Luis Fonsi, Bad Bunny, Feid, Bad Gyal, Ozuna and more.</description>
       <itunes:summary>REGGAETON x LATIN CLUB MIX 2026. From Latin pop anthems to reggaeton club edits and peak-time bangers. Featuring Luis Fonsi, Bad Bunny, Feid, Bad Gyal, Ozuna and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep018.mp3" length="145147453" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep018.mp3" length="145147453" type="audio/mpeg"/>
       <itunes:duration>01:00:29</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>18</itunes:episode>
@@ -84,7 +84,7 @@
       <pubDate>Mon, 06 Apr 2026 10:34:29 -0400</pubDate>
       <description>LATIN x REGGAETON PARTY MIX 2026. A high-energy blend of Latin club edits, reggaeton heat and female-led bangers. Featuring Karol G, Maria Becerra, Feid, Sech, Zion, Bad Gyal, Shakira and more.</description>
       <itunes:summary>LATIN x REGGAETON PARTY MIX 2026. A high-energy blend of Latin club edits, reggaeton heat and female-led bangers. Featuring Karol G, Maria Becerra, Feid, Sech, Zion, Bad Gyal, Shakira and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep017.mp3" length="136962493" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep017.mp3" length="136962493" type="audio/mpeg"/>
       <itunes:duration>57:04</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>17</itunes:episode>
@@ -96,7 +96,7 @@
       <pubDate>Sat, 21 Mar 2026 17:29:27 -0400</pubDate>
       <description>REGGAETON x LATIN PARTY MIX 2026. 1 Hour of Perreo, Club Edits and Latin Bangers featuring Daddy Yankee, Bad Bunny, Feid, Don Omar, Wisin &amp; Yandel, Zion &amp; Lennox, J Balvin and more.</description>
       <itunes:summary>REGGAETON x LATIN PARTY MIX 2026. 1 Hour of Perreo, Club Edits and Latin Bangers featuring Daddy Yankee, Bad Bunny, Feid, Don Omar, Wisin &amp; Yandel, Zion &amp; Lennox, J Balvin and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep016.mp3" length="157574653" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep016.mp3" length="157574653" type="audio/mpeg"/>
       <itunes:duration>01:05:39</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>16</itunes:episode>
@@ -108,7 +108,7 @@
       <pubDate>Sun, 15 Mar 2026 22:15:04 -0400</pubDate>
       <description>AFRO x LATIN HOUSE PARTY MIX 2026. A smooth blend of Afro House, Latin House and global groove featuring HUGEL, Diplo, Disclosure, Alex Wann, Shimza, Cesaria Evora, Zerb and more.</description>
       <itunes:summary>AFRO x LATIN HOUSE PARTY MIX 2026. A smooth blend of Afro House, Latin House and global groove featuring HUGEL, Diplo, Disclosure, Alex Wann, Shimza, Cesaria Evora, Zerb and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep015.mp3" length="173934803" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep015.mp3" length="173934803" type="audio/mpeg"/>
       <itunes:duration>01:12:28</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>15</itunes:episode>
@@ -120,7 +120,7 @@
       <pubDate>Sat, 07 Mar 2026 11:36:33 -0500</pubDate>
       <description>SMOOTH AFROBEATS x AMAPIANO PARTY MIX 2026. 1 Hour of Afrobeats, Amapiano and Afro-R&amp;B club vibes. Featuring Burna Boy, Ayra Starr, Tems, Rema, Olamide, CKay, Wizkid, Tyla and more.</description>
       <itunes:summary>SMOOTH AFROBEATS x AMAPIANO PARTY MIX 2026. 1 Hour of Afrobeats, Amapiano and Afro-R&amp;B club vibes. Featuring Burna Boy, Ayra Starr, Tems, Rema, Olamide, CKay, Wizkid, Tyla and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep014.mp3" length="193093693" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep014.mp3" length="193093693" type="audio/mpeg"/>
       <itunes:duration>01:20:27</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>14</itunes:episode>
@@ -132,7 +132,7 @@
       <pubDate>Thu, 05 Mar 2026 18:41:02 -0500</pubDate>
       <description>BEST AFROBEATS &amp; AMAPIANO MIX 2026. Smooth Afrobeats, Amapiano and R&amp;B club vibes. Featuring Tyla, Tems, Ayra Starr, Asake, Tekno and more.</description>
       <itunes:summary>BEST AFROBEATS &amp; AMAPIANO MIX 2026. Smooth Afrobeats, Amapiano and R&amp;B club vibes. Featuring Tyla, Tems, Ayra Starr, Asake, Tekno and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep013.mp3" length="115647613" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep013.mp3" length="115647613" type="audio/mpeg"/>
       <itunes:duration>48:11</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>13</itunes:episode>
@@ -144,7 +144,7 @@
       <pubDate>Mon, 02 Mar 2026 14:51:05 -0500</pubDate>
       <description>AFRO x REGGAE PARTY MIX 2026. Reggae grooves, dancehall bounce, and Afrobeat heat. Featuring Burna Boy, Davido, Rema, Tyla, Shaggy, Sean Paul, CKay, Mahalia, Jorja Smith and more.</description>
       <itunes:summary>AFRO x REGGAE PARTY MIX 2026. Reggae grooves, dancehall bounce, and Afrobeat heat. Featuring Burna Boy, Davido, Rema, Tyla, Shaggy, Sean Paul, CKay, Mahalia, Jorja Smith and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep012.mp3" length="106192573" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep012.mp3" length="106192573" type="audio/mpeg"/>
       <itunes:duration>44:15</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>12</itunes:episode>
@@ -156,7 +156,7 @@
       <pubDate>Mon, 02 Mar 2026 14:48:50 -0500</pubDate>
       <description>KAROL G PARTY MIX 2026. From reggaeton anthems to Latin club edits and peak-time remixes featuring KAROL G, Shakira, Nicki Minaj, Tiesto, Feid, Daddy Yankee and more.</description>
       <itunes:summary>KAROL G PARTY MIX 2026. From reggaeton anthems to Latin club edits and peak-time remixes featuring KAROL G, Shakira, Nicki Minaj, Tiesto, Feid, Daddy Yankee and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep011.mp3" length="145944254" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep011.mp3" length="145944254" type="audio/mpeg"/>
       <itunes:duration>01:00:49</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>11</itunes:episode>
@@ -168,7 +168,7 @@
       <pubDate>Mon, 02 Mar 2026 14:46:55 -0500</pubDate>
       <description>BAD BUNNY HITS PARTY MEGAMIX 2026. From reggaeton classics to Latin house remixes featuring Bad Bunny, Daddy Yankee, Drake, Rosalia, J Balvin and more.</description>
       <itunes:summary>BAD BUNNY HITS PARTY MEGAMIX 2026. From reggaeton classics to Latin house remixes featuring Bad Bunny, Daddy Yankee, Drake, Rosalia, J Balvin and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep010.mp3" length="157954814" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep010.mp3" length="157954814" type="audio/mpeg"/>
       <itunes:duration>01:05:49</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>10</itunes:episode>
@@ -180,7 +180,7 @@
       <pubDate>Thu, 26 Feb 2026 13:17:32 -0500</pubDate>
       <description>R&amp;B x AFRO CLUB MIX 2026. Classic and modern R&amp;B blended with Afro, Amapiano and club edits. Featuring Kehlani, Usher, Ne-Yo, Ayra Starr, Tyla, Tems, PARTYNEXTDOOR and more.</description>
       <itunes:summary>R&amp;B x AFRO CLUB MIX 2026. Classic and modern R&amp;B blended with Afro, Amapiano and club edits. Featuring Kehlani, Usher, Ne-Yo, Ayra Starr, Tyla, Tems, PARTYNEXTDOOR and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep009.mp3" length="74545193" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep009.mp3" length="74545193" type="audio/mpeg"/>
       <itunes:duration>31:04</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>9</itunes:episode>
@@ -192,7 +192,7 @@
       <pubDate>Thu, 26 Feb 2026 13:16:28 -0500</pubDate>
       <description>LATIN x TECH HOUSE PARTY MIX 2026. Latin bangers meet tech house energy from reggaeton remixes to peak-time festival anthems. Featuring Bad Bunny, Karol G, Skrillex, Fred again.., Daddy Yankee, Fisher, Diplo and more.</description>
       <itunes:summary>LATIN x TECH HOUSE PARTY MIX 2026. Latin bangers meet tech house energy from reggaeton remixes to peak-time festival anthems. Featuring Bad Bunny, Karol G, Skrillex, Fred again.., Daddy Yankee, Fisher, Diplo and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep008.mp3" length="82774809" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep008.mp3" length="82774809" type="audio/mpeg"/>
       <itunes:duration>34:29</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>8</itunes:episode>
@@ -204,7 +204,7 @@
       <pubDate>Thu, 26 Feb 2026 13:13:57 -0500</pubDate>
       <description>HIP HOP x LATIN HOUSE PARTY MIX 2026. Hip hop, Latin rhythms and Afro House energy. Featuring Cardi B, Drake, A$AP Rocky, Bad Bunny, J Balvin, Tyla, HUGEL and more.</description>
       <itunes:summary>HIP HOP x LATIN HOUSE PARTY MIX 2026. Hip hop, Latin rhythms and Afro House energy. Featuring Cardi B, Drake, A$AP Rocky, Bad Bunny, J Balvin, Tyla, HUGEL and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep007.mp3" length="86949177" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep007.mp3" length="86949177" type="audio/mpeg"/>
       <itunes:duration>36:14</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>7</itunes:episode>
@@ -216,7 +216,7 @@
       <pubDate>Thu, 26 Feb 2026 13:13:17 -0500</pubDate>
       <description>LATIN x AFRO x TECH HOUSE MIX 2026. Latin House, Afro House and modern Tech House sounds. Featuring Cashew, Mr Eazi, J Capri, HUGEL, Punjabi MC, SPHYNX and more.</description>
       <itunes:summary>LATIN x AFRO x TECH HOUSE MIX 2026. Latin House, Afro House and modern Tech House sounds. Featuring Cashew, Mr Eazi, J Capri, HUGEL, Punjabi MC, SPHYNX and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep006.mp3" length="107522171" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep006.mp3" length="107522171" type="audio/mpeg"/>
       <itunes:duration>44:48</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>6</itunes:episode>
@@ -228,7 +228,7 @@
       <pubDate>Thu, 26 Feb 2026 13:12:00 -0500</pubDate>
       <description>AFRO x LATIN HOUSE PARTY MIX 2026. Afro House meets Latin House energy. Featuring Burna Boy, Diplo, HUGEL, Fred again.., Adam Port, San Pacho, Ayra Starr and more.</description>
       <itunes:summary>AFRO x LATIN HOUSE PARTY MIX 2026. Afro House meets Latin House energy. Featuring Burna Boy, Diplo, HUGEL, Fred again.., Adam Port, San Pacho, Ayra Starr and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep005.mp3" length="132266400" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep005.mp3" length="132266400" type="audio/mpeg"/>
       <itunes:duration>55:07</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>5</itunes:episode>
@@ -240,7 +240,7 @@
       <pubDate>Thu, 26 Feb 2026 13:10:47 -0500</pubDate>
       <description>TRAP x HIP HOP x FESTIVAL MIX 2026. 128 BPM. From gritty street anthems to full club and mainstage takeovers. Featuring Migos, Cardi B, Missy Elliott, Major Lazer, Tiesto, Rihanna and more.</description>
       <itunes:summary>TRAP x HIP HOP x FESTIVAL MIX 2026. 128 BPM. From gritty street anthems to full club and mainstage takeovers. Featuring Migos, Cardi B, Missy Elliott, Major Lazer, Tiesto, Rihanna and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep004.mp3" length="80450955" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep004.mp3" length="80450955" type="audio/mpeg"/>
       <itunes:duration>33:31</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>4</itunes:episode>
@@ -252,7 +252,7 @@
       <pubDate>Thu, 26 Feb 2026 13:09:03 -0500</pubDate>
       <description>HIP HOP CLUB MIX 2026. 100 BPM. West Coast classics, Dirty South bounce, R&amp;B grooves and modern trap energy. Featuring Dr. Dre, 50 Cent, Snoop Dogg, Burna Boy, Travis Scott, Pop Smoke and more.</description>
       <itunes:summary>HIP HOP CLUB MIX 2026. 100 BPM. West Coast classics, Dirty South bounce, R&amp;B grooves and modern trap energy. Featuring Dr. Dre, 50 Cent, Snoop Dogg, Burna Boy, Travis Scott, Pop Smoke and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep003.mp3" length="70208866" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep003.mp3" length="70208866" type="audio/mpeg"/>
       <itunes:duration>29:15</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>3</itunes:episode>
@@ -264,7 +264,7 @@
       <pubDate>Thu, 26 Feb 2026 13:06:06 -0500</pubDate>
       <description>HOUSE x DANCE PARTY MIX 2026. Afro House, Dance and modern House sounds. Featuring Fred again.., Fisher, Dua Lipa, Tyla, Drake, Avicii, Justin Bieber and more.</description>
       <itunes:summary>HOUSE x DANCE PARTY MIX 2026. Afro House, Dance and modern House sounds. Featuring Fred again.., Fisher, Dua Lipa, Tyla, Drake, Avicii, Justin Bieber and more.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep002.mp3" length="81595119" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep002.mp3" length="81595119" type="audio/mpeg"/>
       <itunes:duration>34:00</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>2</itunes:episode>
@@ -276,7 +276,7 @@
       <pubDate>Wed, 25 Feb 2026 11:54:50 -0500</pubDate>
       <description>Energy Elevated. Welcome to BLAST MODE - powered by DJ BLAST. High-impact DJ mixes blending House, Latin, Afro, Hip-Hop, R&amp;B and global party energy.</description>
       <itunes:summary>Energy Elevated. Welcome to BLAST MODE - powered by DJ BLAST. High-impact DJ mixes blending House, Latin, Afro, Hip-Hop, R&amp;B and global party energy.</itunes:summary>
-      <enclosure url="https://op3.dev/e/https://pub-d7369f594e5d4432b0db8785c2fed64b.r2.dev/blastmode-ep001.mp3" length="77137542" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://media.blastmode.info/blastmode-ep001.mp3" length="77137542" type="audio/mpeg"/>
       <itunes:duration>32:08</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episode>1</itunes:episode>
